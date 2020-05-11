@@ -1,0 +1,1 @@
+The schematics for mounting a lora transciever on a board for prototyping and using the standar pin separation.
